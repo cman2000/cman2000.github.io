@@ -1,9 +1,6 @@
 
 # Christian Carley
-## cman2000.github.io
----
-### Profile page
----
+
 
 __About__  
 I am a GIS and data analyst in local government. I am currently doing an MSC in GIS, this page is  
