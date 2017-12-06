@@ -1,10 +1,7 @@
-
-
-## About  
+### About  
 I am a GIS and data analyst in local government. I am currently doing an MSC in GIS, this page is  
 part of my introduction to GIThub and programming.
-
-## Projects
+### Projects
 
 1. [Hello World](https://github.com/cman2000/Hello-World)
 2. [Practical portfolio on Agent Based Models](https://github.com/cman2000/Portfolioabm)
