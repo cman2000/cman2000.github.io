@@ -1,6 +1,8 @@
 <img src="R001-026.JPG" alt="Christian Carley" width="100" height="140">
 
-### About  
+### About 
+Christian Carley, Hampshire, UK.
+
 I am a GIS and data analyst in local government. I am currently doing an MSC in GIS, this page is  
 part of my introduction to GIThub and programming.
 ### Projects
