@@ -7,7 +7,7 @@ part of my introduction to GIThub and programming.
 
 1. [Hello World](https://github.com/cman2000/Hello-World)
 2. [Practical portfolio on Agent Based Models](https://github.com/cman2000/Portfolioabm)
-3. [Assignment]
+3. [Assignment2](https://github.com/cman2000/assignment2)
 
 
 
